@@ -1,10 +1,10 @@
 body {
   width: 70%;
   max-width: 960px;
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
-button { 
+button {
   font-size: 18px;
   line-height: 1.5;
   width: 15%;
@@ -16,7 +16,7 @@ div {
   display: flex;
   /* flex container */
   align-items: baseline;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 button:first-child {
